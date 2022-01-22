@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/leaflet-saniko/static/css/main.e6c13ad2.css",
+    "main.js": "/leaflet-saniko/static/js/main.7153b070.js",
+    "static/js/787.1ffaccb9.chunk.js": "/leaflet-saniko/static/js/787.1ffaccb9.chunk.js",
+    "index.html": "/leaflet-saniko/index.html",
+    "main.e6c13ad2.css.map": "/leaflet-saniko/static/css/main.e6c13ad2.css.map",
+    "main.7153b070.js.map": "/leaflet-saniko/static/js/main.7153b070.js.map",
+    "787.1ffaccb9.chunk.js.map": "/leaflet-saniko/static/js/787.1ffaccb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7153b070.js"
+  ]
+}
